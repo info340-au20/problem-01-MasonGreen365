@@ -1,6 +1,7 @@
 body {
     font-size: 16px;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+    background-color: rebeccapurple;
 }
 p {
     line-height: 1.5;
@@ -9,5 +10,5 @@ p {
     max-height: 400px;
 }
 .big-important {
-    color: purple;
+    color: rgb(0, 255, 21);
 }
